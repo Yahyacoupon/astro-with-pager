@@ -82,6 +82,12 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 
 ## Adding table of contents
 
+```
+function person() {
+
+}
+```
+
 By default, a post (article) does not include any table of contents (toc). To include toc, you have to specify it in a specific way.
 
 Write `Table of contents` in h2 format (## in markdown) and place it where you want it to be appeared on the post.
@@ -159,7 +165,9 @@ When you put images in the blog post (especially for images under `public` direc
 My recommendation for image compression sites.
 
 *   [TinyPng](https://tinypng.com/)
+    
 *   [TinyJPG](https://tinyjpg.com/)
+    
 
 ### OG Image
 
